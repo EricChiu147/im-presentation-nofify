@@ -10,3 +10,4 @@
 一些想到的筆記：
 1. use github action to regularly detect if there's a new presentation availible.
 2. 計中有電子報系統
+3. 是不是可以用github action定期產生RSS Feed，user再用feedly之類的服務收提醒就好

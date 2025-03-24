@@ -5,3 +5,6 @@
 目前對於怎麼通知還沒有想法。
 
 應該會在4月花一個週末完成，有興趣的同學也可以聯絡我，歡迎一起做
+
+一些想到的筆記：
+use github action to regularly detect if there's a new presentation availible.
